@@ -8,6 +8,7 @@ for i in my_list:
         flag = True
         break
 
+
 if(flag==True):
     print("Element found")
 else:
